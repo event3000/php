@@ -45,9 +45,9 @@ $house->add(); при вызове этого метода можно засел
       return $this->adress;
     }
 
-    // public  add($added) { // метод заселения в дом
-    //   $this->humans_in_house = humans_in_house = $this->$added; 
-    // }
+    //  public  add($added) { // метод заселения в дом
+    //    $this->humans_in_house = humans_in_house = $this->$added; 
+    //  }
 
 
    
